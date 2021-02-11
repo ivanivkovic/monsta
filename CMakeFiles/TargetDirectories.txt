@@ -1,7 +1,3 @@
-/home/ivan/git/monsta/CMakeFiles/install/local.dir
-/home/ivan/git/monsta/CMakeFiles/install.dir
-/home/ivan/git/monsta/CMakeFiles/list_install_components.dir
 /home/ivan/git/monsta/CMakeFiles/rebuild_cache.dir
 /home/ivan/git/monsta/CMakeFiles/edit_cache.dir
-/home/ivan/git/monsta/CMakeFiles/install/strip.dir
 /home/ivan/git/monsta/CMakeFiles/Start.dir

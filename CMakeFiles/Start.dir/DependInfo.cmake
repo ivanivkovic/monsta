@@ -4,12 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ivan/git/monsta/main.cpp" "/home/ivan/git/monsta/CMakeFiles/Start.dir/main.cpp.o"
+  "/home/ivan/git/monsta/src/main.cpp" "/home/ivan/git/monsta/CMakeFiles/Start.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "include"
+  "src"
   )
 
 # Targets to which this target links.

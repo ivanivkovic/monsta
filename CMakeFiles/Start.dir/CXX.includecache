@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/ivan/git/monsta/main.cpp
+/home/ivan/git/monsta/src/main.cpp
 iostream
 -
 

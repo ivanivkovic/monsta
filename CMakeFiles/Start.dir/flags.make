@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/ivan/git/monsta/include -I/home/ivan/git/monsta/src
 
 CXX_FLAGS = 
 
