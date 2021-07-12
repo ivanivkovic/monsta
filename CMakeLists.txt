@@ -2,7 +2,7 @@
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 # Minimum version of cmake, for future versions
-cmake_minimum_required(VERSION 3.19.4)
+cmake_minimum_required(VERSION 3.16.4)
 
 # Name this project
 project(hello)

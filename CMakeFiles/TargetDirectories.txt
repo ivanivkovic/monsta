@@ -1,3 +1,0 @@
-/home/ivan/git/monsta/CMakeFiles/rebuild_cache.dir
-/home/ivan/git/monsta/CMakeFiles/edit_cache.dir
-/home/ivan/git/monsta/CMakeFiles/Start.dir

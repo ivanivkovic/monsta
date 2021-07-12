@@ -42,3 +42,6 @@ CTestTestfile.cmake
 Makefile
 CMakeScripts/*
 bin/*
+
+# IDE related
+*.cbp
